@@ -1,0 +1,51 @@
+About Dataset
+Title: "⚡Swiss Energy Balance Dataset from 1980-2022:🌿"
+
+Description:
+
+Unveil the dynamics of Switzerland's energy landscape with the Swiss Energy Balance Dataset, meticulously recorded from 1980 to 2022. This dataset provides a profound look into the energy production, consumption, and management practices of Switzerland, offering insights into domestic production, import/export, storage, conversion, and more.
+
+Key Aspects of the Dataset:
+
+Temporal Coverage: Spanning over four decades, from 1980 to 2022, providing a long-term view of energy trends.
+Detailed Breakdown: Includes annual data on electricity, district heating production, and various energy carriers like wood, coal, petroleum products, and renewable sources.
+Sector-Specific Insights: Data is categorized by sectors including households, industry, services, transport, and agriculture.
+Column Descriptors: 'Year', 'Category', 'Energy Carrier', and 'TJ (Terajoules)' provide a clear, quantifiable perspective of energy use and production.
+Translated for Accessibility: Each column and entry has been carefully translated, inviting a global audience to explore and analyze the data.
+Using the Dataset:
+
+License: Shared under the Open Data Commons Attribution License (ODC-By). Attribution is required for all forms of use.
+Source Citation: Always include a citation with the author, title, and link to the dataset: Swiss Federal Energy Balance Dataset.
+Community Contribution: Users are encouraged to delve into the dataset, analyze trends, and share insights, while respecting the terms of use.
+Acknowledgment:
+
+We extend our gratitude to opendata.swiss and the Swiss Federal Office of Energy (SFOE) for upholding transparency and providing this invaluable resource. Their commitment enables informed research, policy-making, and a deeper understanding of energy management in Switzerland.
+
+Embark on a journey of discovery with this rich dataset, and join the global community in exploring the nuances of Switzerland's energy story over the past 42 years!
+
+
+
+
+Évolution des sources d'énergie :
+
+Comment la proportion des énergies renouvelables a-t-elle évolué entre 1980 et 2022 en Suisse ?
+Quelle est la tendance de l'utilisation des combustibles fossiles (pétrole, charbon, etc.) sur cette période ?
+Comparaison sectorielle :
+
+Quels secteurs (industrie, transport, agriculture, etc.) ont vu la plus grande variation de consommation d'énergie au fil des décennies ?
+Comment la consommation énergétique des ménages a-t-elle changé par rapport à celle des secteurs industriels ?
+Balance énergétique :
+
+Quelle a été la balance énergétique nette (importations moins exportations) de la Suisse chaque année entre 1980 et 2022 ?
+Dans quelle mesure la Suisse dépend-elle des importations d'énergie par rapport à sa production domestique ?
+Pic de consommation :
+
+Quelle année a vu le plus grand pic de consommation d'énergie en Suisse et quel secteur en a été le principal contributeur ?
+Y a-t-il une corrélation entre l'évolution du PIB suisse et la consommation énergétique ?
+Impacts des politiques énergétiques :
+
+Peut-on observer un changement significatif dans les types d'énergie utilisés suite à des événements ou politiques clés en Suisse, comme l'accord de Paris ou des initiatives sur la transition énergétique ?
+Performances des sources d’énergie :
+
+Quelles sources d'énergie ont le rendement le plus stable en termes de production d'énergie au fil des ans ?
+Comment les différentes sources d'énergie (pétrole, électricité, bois, etc.) se comparent-elles en termes de TJ produits ou consommés ?
